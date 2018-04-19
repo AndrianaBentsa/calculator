@@ -1,0 +1,9 @@
+D:\IV триместр\Операционные системы\Лабораторная работа #8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\IV триместр\Операционные системы\Лабораторная работа #8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\IV триместр\Операционные системы\Лабораторная работа #8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\IV триместр\Операционные системы\Лабораторная работа #8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\IV триместр\Операционные системы\Лабораторная работа #8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\IV триместр\Операционные системы\Лабораторная работа #8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+D:\IV триместр\Операционные системы\Лабораторная работа #8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb
+F:\IV триместр\Операционные системы\Лабораторная работа #8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.exe
+F:\IV триместр\Операционные системы\Лабораторная работа #8\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.pdb

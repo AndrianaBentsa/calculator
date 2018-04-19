@@ -1,0 +1,11 @@
+D:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\bin\Release\calculator.exe.config
+D:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\bin\Release\calculator.exe
+D:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\bin\Release\calculator.pdb
+D:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Release\Exception.csproj.GenerateResource.Cache
+D:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Release\calculator.exe
+D:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Release\calculator.pdb
+D:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Release\exception.Form1.resources
+D:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Release\exception.Properties.Resources.resources
+C:\Users\user\Desktop\Лабораторная работа #8\Exception\exception\bin\Release\calculator.exe.config
+C:\Users\user\Desktop\Лабораторная работа #8\Exception\exception\obj\Release\calculator.exe
+C:\Users\user\Desktop\Лабораторная работа #8\Exception\exception\obj\Release\calculator.pdb

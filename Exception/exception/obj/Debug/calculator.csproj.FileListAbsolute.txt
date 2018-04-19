@@ -1,0 +1,51 @@
+C:\Users\user1\Desktop\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\user1\Desktop\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\user1\Desktop\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\user1\Desktop\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\user1\Desktop\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\user1\Desktop\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\user1\Desktop\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\user1\Desktop\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\gsvet_000\Desktop\Я\Проекты\Калькулятор\Калькулятор(ТОИ)\calculator\bin\Debug\calculator.exe.config
+C:\Users\gsvet_000\Desktop\Я\Проекты\Калькулятор\Калькулятор(ТОИ)\calculator\obj\Debug\calculator.exe
+C:\Users\gsvet_000\Desktop\Я\Проекты\Калькулятор\Калькулятор(ТОИ)\calculator\obj\Debug\calculator.pdb
+C:\Users\gsvet_000\Desktop\Я\Проекты\Калькулятор\Калькулятор(ТОИ)\calculator\bin\Debug\calculator.exe
+C:\Users\gsvet_000\Desktop\Я\Проекты\Калькулятор\Калькулятор(ТОИ)\calculator\bin\Debug\calculator.pdb
+C:\Users\gsvet_000\Desktop\Я\Проекты\Калькулятор\Калькулятор(ТОИ)\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\gsvet_000\Desktop\Я\Проекты\Калькулятор\Калькулятор(ТОИ)\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\gsvet_000\Desktop\Я\Проекты\Калькулятор\Калькулятор(ТОИ)\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\gsvet_000\Desktop\Я\Проекты\Калькулятор\Калькулятор(ТОИ)\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\hlopeth\Documents\Visual Studio 2015\Projects\WindowsFormsApplication_Calculator\Калькулятор(ТОИ)\calculator\bin\Debug\calculator.exe.config
+C:\Users\hlopeth\Documents\Visual Studio 2015\Projects\WindowsFormsApplication_Calculator\Калькулятор(ТОИ)\calculator\obj\Debug\calculator.exe
+C:\Users\hlopeth\Documents\Visual Studio 2015\Projects\WindowsFormsApplication_Calculator\Калькулятор(ТОИ)\calculator\obj\Debug\calculator.pdb
+C:\Users\hlopeth\Documents\Visual Studio 2015\Projects\WindowsFormsApplication_Calculator\Калькулятор(ТОИ)\calculator\bin\Debug\calculator.exe
+C:\Users\hlopeth\Documents\Visual Studio 2015\Projects\WindowsFormsApplication_Calculator\Калькулятор(ТОИ)\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\hlopeth\Documents\Visual Studio 2015\Projects\WindowsFormsApplication_Calculator\Калькулятор(ТОИ)\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\hlopeth\Documents\Visual Studio 2015\Projects\WindowsFormsApplication_Calculator\Калькулятор(ТОИ)\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\hlopeth\Documents\Visual Studio 2015\Projects\WindowsFormsApplication_Calculator\Калькулятор(ТОИ)\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\hlopeth\Documents\Visual Studio 2015\Projects\WindowsFormsApplication_Calculator\Калькулятор(ТОИ)\calculator\bin\Debug\calculator.pdb
+C:\Users\hlopeth\Desktop\WindowsFormsApplication_Calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\hlopeth\Desktop\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.exe
+C:\Users\hlopeth\Desktop\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.pdb
+E:\WindowsFormsApplication_Calculator\calculator\bin\Debug\calculator.exe.config
+E:\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.exe
+E:\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.pdb
+E:\WindowsFormsApplication_Calculator\calculator\bin\Debug\calculator.exe
+E:\WindowsFormsApplication_Calculator\calculator\bin\Debug\calculator.pdb
+E:\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.Form1.resources
+E:\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+G:\WindowsFormsApplication_Calculator\calculator\bin\Debug\calculator.exe.config
+G:\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.exe
+G:\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.exe
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\bin\Debug\calculator.exe
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache

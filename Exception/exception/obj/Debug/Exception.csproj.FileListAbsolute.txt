@@ -1,0 +1,24 @@
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.exe
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\bin\Debug\calculator.exe
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\obj\Debug\Exception.csprojResolveAssemblyReference.cache
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\WindowsFormsApplication_Calculator\calculator\obj\Debug\Exception.csproj.GenerateResource.Cache
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\Exception\exception\bin\Debug\calculator.exe.config
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\Exception\exception\obj\Debug\calculator.exe
+C:\Users\naila\Desktop\Камиля\IV триместр\ОС\Exception\exception\obj\Debug\calculator.pdb
+F:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\bin\Debug\calculator.exe.config
+F:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Debug\calculator.exe
+F:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Debug\calculator.pdb
+F:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\bin\Debug\calculator.exe
+F:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\bin\Debug\calculator.pdb
+F:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Debug\Exception.csprojResolveAssemblyReference.cache
+F:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Debug\calculator.Form1.resources
+F:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Debug\calculator.Properties.Resources.resources
+F:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Debug\Exception.csproj.GenerateResource.Cache
+D:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\bin\Debug\calculator.exe.config
+D:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Debug\calculator.exe
+D:\IV триместр\Операционные системы\Лабораторная работа #8\Exception\exception\obj\Debug\calculator.pdb
