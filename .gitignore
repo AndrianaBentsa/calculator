@@ -12,7 +12,7 @@ foo.txt
 *.user
 *.userosscache
 *.sln
-
+WindowsFormsApplication1.suo
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
