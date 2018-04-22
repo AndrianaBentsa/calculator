@@ -248,3 +248,98 @@ ModelManifest.xml
 .fake/
 # Ignore objects and archives.
 *.[oa]
+## Игнорировать временные файлы Visual Studio, результаты построения и
+## файлы, созданные популярными надстройками Visual Studio.
+
+# Пользовательские файлы
+*.suo
+*.пользователь
+*.userosscache
+*.ФСЛ.docstates
+StyleCop.Кэш
+_ReSharper
+*.[Rr]e [Ss]harper
+*.DotSettings.пользователь
+
+# Построить результаты
+[Dd]ebug
+[Dd]ebugPublic
+[Rr]elease
+[Rr]eleases
+x64
+x86
+строить
+валун
+[Bb] in
+[Oo]bj
+
+# Каталоги кэша Roslyn
+*.против
+
+# Профилировщик Visual Studio
+*.psess
+*.ВСП
+*.vspx
+
+# Sandcastle Help File Builder-надстройка для генератора документации
+Документация / ** / Справка
+Документация / WebHelp
+** / Doc / Справка
+*.shfbproj
+
+# Публикация Веб-Вывода
+*.Ublish.XML
+*.pubxml
+*.publishproj
+** / PrecompiledWeb
+
+# Nuget Пакеты
+*.nupkg
+# Папку packages можно игнорировать из-за восстановления пакета
+**/пакеты
+*.замок.формат JSON
+
+# Другие
+~$*
+*~
+*.publishsettings
+* CodeAnalysisLog.XML
+WebProject.lastcodeanalysissucceeded
+
+# Backup & report файлы из преобразования старого файла проекта
+# в более новую версию Visual Studio. Резервное копирование файлов не требуется
+# потому что у нас есть git
+_UpgradeReport_Files
+Резервный
+UpgradeLog*.XML
+UpgradeLog*.htm
+
+# Не распространяемые и частные местные вещи
+NonDist
+/ SHFB / Source / Setup / Temp
+
+# =========================
+# Файлы Операционной Системы
+# =========================
+
+# Windows
+# =========================
+
+ Кэш файлов образов Windows
+Большие пальцы.БД
+ehthumbs.децибел
+
+# Folder config
+Для рабочего стола.ini
+
+# Корзина, используемая в общих файловых ресурсах
+$РЕЦИРКУЛИРОВАТЬ.bin
+
+# Файлы установщика Windows
+*.кабина
+*.компания MSI
+*.МСМ
+*.msp
+
+# ярлыки Windows
+*.lnk
